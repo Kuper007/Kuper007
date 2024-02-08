@@ -1,4 +1,4 @@
-### Hey there, I'm Anton, a Fullstack Developer from Ukraine 👋
+## Hey there, I'm Anton, a Fullstack Developer from Ukraine 👋
 
 💻 Working on interesting & inspiring projects, love taking on challenging tasks & full-stack projects.
 
@@ -6,13 +6,13 @@
 
 🕹️ My main tech stack is React, React Native, Next.js, Node.js, and nothing nowadays works without TypeScript. I'm also a Python enthusiast 🐍
 
-#### Code samples
+### Code samples
 
 - https://gist.github.com/Kuper007/2fe4086dd8827ac26cca00aa6d2d7c10
 - https://gist.github.com/Kuper007/e447361a719aae8aef40cdf44e3dece9
 - https://gist.github.com/Kuper007/04f0477972a4c2abc314a6051c85e21b
 
-#### Latest projects
+### Latest projects
 
 - Cassandra — the future of finance, a tool that's going to be used by top CEOs in the world. (WIP)
 
