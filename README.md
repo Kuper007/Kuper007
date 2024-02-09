@@ -1,6 +1,6 @@
 ## Hey there, I'm Anton, a Fullstack Developer from Ukraine 👋
 
-💻 Working on interesting & inspiring projects, love taking on challenging tasks & full-stack projects.
+💻 Always working on interesting & inspiring projects, like taking on challenging tasks.
 
 😎  I've been on both sides of the development circle, so I enjoy building pixel-perfect UI/UX solutions, bringing your Figma designs to life, as much as I enjoy creating powerful REST APIs along with setting up the SQL & NoSQL databases & finally deploying your app to the cloud. If you are looking for a person who can do everything, you landed on the right Github profile 😉
 
