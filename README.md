@@ -1,3 +1,4 @@
+![Anton Kup](https://github.com/Kuper007/Kuper007/assets/36741957/2ded11a0-5419-4e29-b2ec-976fbd7fb42b)
 ## Hey there, I'm Anton, a Fullstack Developer from Ukraine 👋
 
 💻 Always working on interesting & inspiring projects, like taking on challenging tasks.
