@@ -15,8 +15,8 @@
 
 ### Latest projects
 
-- Cassandra — the future of finance, a tool that's going to be used by top CEOs in the world. (WIP)
+- [Olivia](https://www.oliviahealth.ai/) - a healthcare mobile & web application, created to support patients in keeping their medical data accessible & secured and analyzing their records using AI.
 
-- [SparrowInvest](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth using Bitcoin. It was created to ultimately close the gender investment gap.
+- SparrowInvest — a secure platform and community for women to build and share long-term wealth using Bitcoin. It was created to ultimately close the gender investment gap.
 
 - [Uptick](https://uptick.co/) - a platform that brings together all your crypto investments into one powerful dashboard application, that allows you to analyze & optimize your crypto portfolio.
